@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetShop.Web", "NetShop.Web\NetShop.Web.csproj", "{6F24FBA6-3684-440A-9589-C21008879C47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetShop.API", "NetShop.API\NetShop.API.csproj", "{52F32AF5-C339-47AF-BE82-1E85850BD690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F24FBA6-3684-440A-9589-C21008879C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F24FBA6-3684-440A-9589-C21008879C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F24FBA6-3684-440A-9589-C21008879C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F24FBA6-3684-440A-9589-C21008879C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F32AF5-C339-47AF-BE82-1E85850BD690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F32AF5-C339-47AF-BE82-1E85850BD690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F32AF5-C339-47AF-BE82-1E85850BD690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F32AF5-C339-47AF-BE82-1E85850BD690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915E783E-A5D4-462F-BE1D-2EBFC0C6A04C}
+	EndGlobalSection
+EndGlobal
